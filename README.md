@@ -18,3 +18,6 @@ To Research new eco friendly techniques
 # Contact Page:-
 ![image](https://user-images.githubusercontent.com/98083194/174434440-e61e38a9-711e-41e2-9f52-22803bf05149.png)
 
+# AZURE STATIC WEB APP DEPLOYMENT :-
+![image](https://user-images.githubusercontent.com/98083194/174434705-69040ba6-3c3e-4716-9dff-e9424b84e883.png)
+
